@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+PyMuPDF
+langchain  
+boto3  
